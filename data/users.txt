@@ -1,0 +1,2 @@
+admin|admin123|Quan tri vien|ADMIN
+staff|staff123|Nhan vien KTX|STAFF
